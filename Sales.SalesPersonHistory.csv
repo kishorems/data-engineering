@@ -1,0 +1,11 @@
+SalesReasonID,Name,ReasonType,ModifiedDate
+1,Price,Other,00:00.0
+2,On Promotion,Promotion,00:00.0
+3,Magazine Advertisement,Marketing,00:00.0
+4,Television  Advertisement,Marketing,00:00.0
+5,Manufacturer,Other,00:00.0
+6,Review,Other,00:00.0
+7,Demo Event,Marketing,00:00.0
+8,Sponsorship,Marketing,00:00.0
+9,Quality,Other,00:00.0
+10,Other,Other,00:00.0
